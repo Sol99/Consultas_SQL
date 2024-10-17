@@ -1,5 +1,7 @@
 #Consultas SQL
 Este repositorio contiene un conjunto de consultas SQL y procedimientos para la gestión de productos, órdenes y otros datos, diseñadas para ejecutarse en SQL Server Management Studio (SSMS).
+
+
 #Estructura del archivo
 El archivo principal incluye las siguientes operaciones:
 
