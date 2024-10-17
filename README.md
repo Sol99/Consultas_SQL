@@ -3,6 +3,7 @@ Este repositorio contiene un conjunto de consultas SQL y procedimientos para la 
 
 
 #Estructura del archivo
+
 El archivo principal incluye las siguientes operaciones:
 
 1. Inserciones de productos:
